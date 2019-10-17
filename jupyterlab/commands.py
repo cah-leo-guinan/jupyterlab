@@ -46,7 +46,7 @@ PIN_PREFIX = 'pin@'
 
 
 # Default Yarn registry used in default yarn.lock
-YARN_DEFAULT_REGISTRY = 'https://registry.yarnpkg.com'
+YARN_DEFAULT_REGISTRY = 'https://artifacts.cahcommtech.com/repository/npm/'
 
 
 class ProgressProcess(Process):
